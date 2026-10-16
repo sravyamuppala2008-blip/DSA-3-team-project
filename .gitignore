@@ -1,0 +1,5 @@
+target/
+bin/
+.classpath.local
+*.class
+.DS_Store
